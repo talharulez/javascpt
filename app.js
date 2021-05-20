@@ -318,5 +318,155 @@
 
 // }
 
-// chapter 11 task 2
+// chapter 10 task 2
+
+// var a = prompt("eneter your gender");
+
+// if (a == "male"){
+//     alert("good morning sir")
+// }else  {
+//         alert("good morning maam")
+
+// } 
+ //chapter 10 task 3
+
+//   var a = "red" ;
+//   var b = "yellow" ;
+//  var c = "green" ;
+// var signal = prompt("enter your signal")
+//  if (a == "red"){
+//      alert("must stop")
+//       } else if( b == "yellow"){
+//           alert("ready to move")
+//       }else{
+          
+//           alert("move now")
+//         }
+      
+//chapter 10 task 4
+
+// var fuel = prompt("remaining fuel in the car")
+
+// if (fuel <= 0.25){
+//     alert("please fill your fuel tank")
+// }
+
+//chapter 10 task 5 a
+
+//  var a = 4;
+//   if (++a === 5){
+//        alert("given condition for variable a is true");
+//   }
+//chapter 10 task 5 b
+//  var b = 82;
+//   if (b++ === 83){
+//        alert("given condition for variable b is false");
+//   }
+//chapter 10 task 5 c
+//   var c = 12;
+//    if (c++ === 13){
+//         alert("condition 1 is false");
+//    }
+
+// if (c === 13){ 
+//     alert("condition 2 is true");
+// }
+
+
+// if (++c < 14){
+//      alert("condition 3 is false");
+// }
+
+
+// if(c === 14){
+//      alert("condition 4 is false");
+// }
+
+//chapter 10 task 5 d
+
+//  var materialCost = 20000;
+//   var laborCost = 2000;
+//    var totalCost = materialCost + laborCost;
+//     if (totalCost === laborCost + materialCost){
+//          alert("The cost equals");
+//     }
+
+// chapter 10 task 5 e
+
+//  if (true){ 
+//      alert("True"); 
+//     } if (false){ 
+//         alert("False");
+//     }
+
+// chapter 10 task 5 f
+//  if("car" < "cat"){
+//       alert("car is smaller than cat");
+
+//  }
+
+
+
+// chapter 10 task 7
+
+// var a = prompt("enter secret number from 1 to 10");
+// if(a == 5){
+//     alert("bingo! correct answer")
+// } else{
+//     alert("closse enough to the correct answer")
+// }
+
+
+
+
+// chapter 10 task 8
+
+// var a =3 ;
+// if ( a % 2){
+//     alert("the given number is divided by 3")
+// }
+
+
+// chapter 10 task 9
+// var  i = prompt("enter your number");
+// if ( i % 2 == 0 ){
+// alert("Entered number is even");
+// }
+// else{
+// alert("Entered number is odd");
+// }
+
+// chapter 10 task 10
+
+
+// var t = prompt("enter the temperature")
+
+ 
+// if (t>40 ){
+//     alert("it is too hot outside")
+// }else if (t> 30 ){
+//     alert("the weather today is normal")
+// }else if (t>20){
+//     alert("the weather is cool")
+// }else{
+//     alert("weather is so cool")
+// }
+
+// chapter 10 task 11
+
+// var val1 = prompt("enter your first value")
+// var sign= prompt("enter your operator")
+// var val2 = prompt("enter your second value")
+
+
+// if(sign === "+"){
+//     alert( val1  + val2)
+// }else if ( sign === "-"){
+//     alert(val1 - val2)
+// }else if ( sign === "*"){
+//     alert(val1 * val2)
+// }else if (sign === "/"){
+//     alert(val1 / val2)
+// }
+
 
